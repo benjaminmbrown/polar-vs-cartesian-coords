@@ -5,5 +5,7 @@ Version 1:
 <img src ="https://media.giphy.com/media/26AHLbxkhpO0xkdXi/giphy.gif"/>
 Version 2:
 <img src ="https://media.giphy.com/media/3o6ozGDNlbT1ZbQE92/giphy.gif"/>
+Modifying polar coord:
+<img src="https://media.giphy.com/media/xT1XGQpmxWD4y60tc4/giphy.gif"></img>
 
 Reference: <a href="http://natureofcode.com/book/chapter-3-oscillation/">Nature of Code - Oscillation</a>

@@ -9,8 +9,8 @@ function setup() {
 }
 
 function draw() {
-   var x =  r * sin(theta);
-   var y = r * cos(theta);
+   var x =  r * sin(theta)+theta*10;
+   var y = r * cos(theta)+theta*10;
    // move origin to center of screen
    translate(width/2, height/2);
 
